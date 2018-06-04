@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/IDFC E-Store.iml" filepath="$PROJECT_DIR$/.idea/modules/IDFC E-Store.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/IDFC_E-Store.iml" filepath="$PROJECT_DIR$/.idea/modules/IDFC_E-Store.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/IDFC_E-Store_main.iml" filepath="$PROJECT_DIR$/.idea/modules/IDFC_E-Store_main.iml" group="IDFC_E-Store" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/IDFC_E-Store_test.iml" filepath="$PROJECT_DIR$/.idea/modules/IDFC_E-Store_test.iml" group="IDFC_E-Store" />
+    </modules>
+  </component>
+</project>
